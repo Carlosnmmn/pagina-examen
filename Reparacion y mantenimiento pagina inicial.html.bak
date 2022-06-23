@@ -1,0 +1,176 @@
+<!DOCTYPE HTML>
+<html lang = "es">
+<head>
+<title> Reparaciones y mantenimiento C-AJD</title>
+<link rel = "icon" href = "logo.jpg">
+<meta charset= "UTF-8">
+<font FACE = "bahnschrift semicondensed">
+</head>
+<body>
+ <link rel="stylesheet" type="text/css"
+href="inicio.css">
+
+<body>
+<header>
+<font FACE = "bahnschrift semicondensed">
+<Center><img src="encabezado.jpg"height="500px" width = "1200px"/></p></center>
+</header>
+
+<ul class = "nav">
+
+<li><a href = "file:///C:/Users/monte%20maria/Desktop/II%20PARCIAL/Dise%C3%B1o%20Web/Semana%204/reparaciones%20jdar.html">Inicio</a></li>
+<li><a href = "">Servicios</a>
+
+
+<ul>
+
+<li><a href = "file:///C:/Users/monte%20maria/Desktop/II%20PARCIAL/Dise%C3%B1o%20Web/Semana%204/reparacion%20de%20laptop.html">Reparacion de laptop</a></li>
+<li><a href = "file:///C:/Users/monte%20maria/Desktop/II%20PARCIAL/Dise%C3%B1o%20Web/Semana%201/SHEIN/tendecias.html"> Reparacion de PC</a></li>
+
+</li>
+</ul>
+
+<li><a href = "">Descubre</a>
+<ul>
+        <li><a href = "file:///C:/Users/monte%20maria/Desktop/II%20PARCIAL/Dise%C3%B1o%20Web/Semana%201/SHEIN/ropa.html">Reparacion de Pc</a></li>
+	    <li><a href = "file:///C:/Users/monte%20maria/Desktop/II%20PARCIAL/Dise%C3%B1o%20Web/Semana%201/SHEIN/vestidos.html">Reparacion de electronica</a></li>
+        <li><a href = "file:///C:/Users/monte%20maria/Desktop/II%20PARCIAL/Dise%C3%B1o%20Web/Semana%201/SHEIN/Tops.html">Reparacion de All in One</a></li>
+</ul>
+</li>
+</ul>
+<center><h3> Más de 15 años de experiencia</h3></center>
+
+ <font size = "6"><center> <h2> Quienes somos? </h2> </center></font>
+ <p>Dedicados al suministro, venta y mantenimiento de 
+ equipo informatico desde 2003. Tenemos vasta
+ experiencia en equipos informaticos, estamos
+ capacitados para trabjar con las marcas mas
+ populares del mundo y garantizamos la calidad en
+ cada uno de nuestros trabajos.</p>
+ 
+ <h1> Nuestros servicios </h1>
+<p>Consulte nuestra amplia gama de servicios y soluciones para cada necesidad que tenga</p> 
+<article>
+<section>
+   <font color = orange><h3>Reparacion de laptops </h3></font>
+   <p> La laptop no da imagen, no da signos de inicilizacion de
+   sistema unicamente parpadean LED, se escucha que el 
+   sistema inicia pero dan la imagen, se apaga a minutos de estar
+   encenciendo el equipo, se siente olor a circuito quemado.</p>
+   <br>
+   <center><img src = "fotoo1.jpg" height="200px" width = "400px"></center>
+   </section>
+   
+<section>
+<font color = orange><h3>Reparacion de PC</h3></font>
+<p> Botaste tu laptop y se quebro la pantalla? Muchos usuarios
+piensan que una pantalla quebrada o dañada es el fin del equipo
+Somo importadores directos de pantallas de todos los tamaños,
+marcas, modelos.</p>
+<br></br>
+<center><img src = "fotoo2.jpg" height="200px" width = "400px"></center>
+</section>
+
+<section>
+<font color = orange><h3>Reparacion de electronica</h3></font>
+<p> Hoy en dia el desarrollo web se ha convertido, 
+   en una herramienta fundamental para el marketing de las empresas,
+   ya que por medio de ellas. Podemos realizar: Pagos, compras, transacciones
+   y otros tipos de operaciones en linea, y esto a surgido a las grandes innovaciones tecnologicas
+   en el comercio, banca financiera y otro tipo de entidades.</p>
+   <center><img src = "fotoo7.jpg" height="200px" width = "400px"></center>
+</section>
+
+
+<section>
+<font color = orange><h3>Reparacion All In One</h3></font>
+<p>Los LEDS'S de tu laptop no encienden, encienden y solo
+parpadean los LED de bloqueo pero no da tiempo de imgen.
+Esto es resultado de que tu laptop esta teniendo
+problemas de sowftware.Es recomendado que lleves tu laptop a reparacion.</p>
+<center><img src = "fotoo3.jpg" height="200px" width = "400px"></center>
+</section>
+
+<section>
+<font color = orange><h3>Fallas en el sistema Operativo</h3></font>
+<p> Hoy en dia el desarrollo web se ha convertido, 
+   en una herramienta fundamental para el marketing de las empresas,
+   ya que por medio de ellas. Podemos realizar: Pagos, compras, transacciones
+   y otros tipos de operaciones en linea, y esto a surgido a las grandes innovaciones tecnologicas
+   en el comercio, banca financiera y otro tipo de entidades.</p>
+   <center><img src = "fotoo4.jpg" height="200px" width = "400px"></center>
+</section>
+
+<section>
+<font color = orange><h3>Problema de virus</h3></font>
+<p> Hoy en dia el desarrollo web se ha convertido, 
+   en una herramienta fundamental para el marketing de las empresas,
+   ya que por medio de ellas. Podemos realizar: Pagos, compras, transacciones
+   y otros tipos de operaciones en linea, y esto a surgido a las grandes innovaciones tecnologicas
+   en el comercio, banca financiera y otro tipo de entidades.</p>
+   <center><img src = "fotoo5.jpg" height="200px" width = "400px"></center>
+</section>
+
+<section>
+<font color = orange><h3>No funciona el teclado</h3></font>
+<p> Hoy en dia el desarrollo web se ha convertido, 
+   en una herramienta fundamental para el marketing de las empresas,
+   ya que por medio de ellas. Podemos realizar: Pagos, compras, transacciones
+   y otros tipos de operaciones en linea, y esto a surgido a las grandes innovaciones tecnologicas
+   en el comercio, banca financiera y otro tipo de entidades.</p>
+   <center><img src = "fotoo6.jpg" height="200px" width = "400px"></center>
+</section>
+
+<section>
+<font color = orange><h3>Sobrecalientamiento de la Laptop</h3></font>
+<p> Hoy en dia el desarrollo web se ha convertido, 
+   en una herramienta fundamental para el marketing de las empresas,
+   ya que por medio de ellas. Podemos realizar: Pagos, compras, transacciones
+   y otros tipos de operaciones en linea, y esto a surgido a las grandes innovaciones tecnologicas
+   en el comercio, banca financiera y otro tipo de entidades.</p>
+   <center><img src = "foto7.jpg" height="200px" width = "400px"></center>
+</section>
+
+<section>
+<font color = orange><h3>Bisagras quebradas</h3></font>
+<p> Hoy en dia el desarrollo web se ha convertido, 
+   en una herramienta fundamental para el marketing de las empresas,
+   ya que por medio de ellas. Podemos realizar: Pagos, compras, transacciones
+   y otros tipos de operaciones en linea, y esto a surgido a las grandes innovaciones tecnologicas
+   en el comercio, banca financiera y otro tipo de entidades.</p>
+   <center><img src = "foto8.jpg" height="200px" width = "400px"></center>
+</section>
+
+<section>
+<font color = orange><h3>Derrame liquido</h3></font>
+<p> Hoy en dia el desarrollo web se ha convertido, 
+   en una herramienta fundamental para el marketing de las empresas,
+   ya que por medio de ellas. Podemos realizar: Pagos, compras, transacciones
+   y otros tipos de operaciones en linea, y esto a surgido a las grandes innovaciones tecnologicas
+   en el comercio, banca financiera y otro tipo de entidades.</p>
+   <center><img src = "foto9.jpg" height="200px" width = "400px"></center>
+</section>
+
+<section>
+<font color = orange><h3>Reparacion de TouchPad</h3></font>
+<p> Hoy en dia el desarrollo web se ha convertido, 
+   en una herramienta fundamental para el marketing de las empresas,
+   ya que por medio de ellas. Podemos realizar: Pagos, compras, transacciones
+   y otros tipos de operaciones en linea, y esto a surgido a las grandes innovaciones tecnologicas
+   en el comercio, banca financiera y otro tipo de entidades.</p>
+   <center><img src = "foto10.jpg" height="200px" width = "400px"></center>
+</section>
+
+<section>
+<font color = orange><h3>Puertos no funcionan</h3></font>
+<p> Hoy en dia el desarrollo web se ha convertido, 
+   en una herramienta fundamental para el marketing de las empresas,
+   ya que por medio de ellas. Podemos realizar: Pagos, compras, transacciones
+   y otros tipos de operaciones en linea, y esto a surgido a las grandes innovaciones tecnologicas
+   en el comercio, banca financiera y otro tipo de entidades.</p>
+   <center><img src = "foto11.jpg" height="200px" width = "400px"></center>
+</section>
+
+</article>
+
+<h2>Trabajamos con las siguientes marcas:</h2>

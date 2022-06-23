@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang = "es">
+<head>
+<meta charset = "utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Topy | Reparaciones Eletronicas</title>
+	<link rel="shortcut icon" href="topy.png"  type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+	<link href="estilos.css" rel="stylesheet">
+	<font FACE = "bahnschrift semicondensed">
+    
+	</head>
+	<body>
+	<header>
+	 	 <ul class = "nav">
+
+<li><a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/raparacion.html">Inicio</a></li>
+<li><a href = "">Servicios </a>
+
+<ul>
+<li><a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/laptop.html">Reparacion de laptop</a></li>
+<li><a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/pc.html">Reparacion de Pc</a></li>
+<li><a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/mantenimiento%20de%20ipads.html">Reparacion de Ipads</a></li>
+<li><a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/mantenimiento%20de%20servidores.html">Mantenimiento de servidores</a>
+<li><a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/recuperacion%20de%20datos.html">Recuperacion de datos</a>
+<li><a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/servicio%20de%20reballing.html">Servicios de reballing</a>
+<li><a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/reparaciones%20electronicas.html">Reparaciones electronicas</a>
+</ul>
+<li><a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/acerca.html">Acerca de</a>
+</div>
+</nav>
+</ul>
+	
+			
+			<section class = "textos-header">
+			<h1>Reparaciones Eletronicas</h1>
+			<h2>Con tu pagina web confiable y muy fuerte.</h2>
+			</section>
+			<div class = "wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 349.20,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #08f;"></path></svg></div>
+			</header>
+			<main>
+			<section class = "contenedor sobre nosotros">
+			<h2 class = "titulo">REPARACIONES ELECTRÓNICAS Y MICROELECTRÓNICAS</h2>
+			<div class = "contenedor-sobre-nosotros">
+			<img src ="electronica.webp" alt="" class="imagen-about-us">
+			<div class = "contenido-textos">
+			<h3><span></span>Los mejores cuidados</h3>
+            <p>Contamos con un laboratorio microelectrónico multimarca, técnicas avanzadas y tecnología de punta para cualquier cambio de micro transistores, condensadores, mosfet, fusibles, bobinas, etc, en los dispositivos de última tecnología. Reparamos y Cambiamos Chip de Videos integrados en marcas NVIDIA y ATI, nuevos o generaciones pasadas en todas las marcas. Ofrecemos soluciones eficaces a nuestros clientes de forma responsable y con un alto nivel de calidad en el servicio.<br></br>
+
+Nuestras reparaciones son realizadas por expertos en nuestro Centro de Servicio Técnico Especializado con herramientas de alta complejidad y disponemos de maquinaria de última generación para reparación y soldado automático de chip. Somos innovación, calidad, tecnología al servicio de usted.</p>
+			
+			</div>
+			</div>
+			</section>
+			<footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Phone</h4>
+                <p>2235-1110</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>topy2918@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Location</h4>
+                <p>Villanueva, Cortes</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Carlos Murcia | Reparacion Topy</h2>
+    </footer>
+</body>
+
+</html>

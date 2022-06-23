@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang = "es">
+<head>
+<meta charset = "utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Reparaciones Topy</title>
+	<link rel="shortcut icon" href="topy.png"  type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css">
+	<link href="estilos.css" rel="stylesheet">
+    
+	</head>
+	<body>
+	<header>
+	<nav>
+	 <a href="file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/raparacion.html">Inicio</a>
+            <a href="file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/acerca.html">Acerca de</a>
+			</nav>
+			
+			<section class = "textos-header">
+			<h1>Bienvenido sean a Reparaciones TOPY!</h1>
+			<h2>Con tu pagina web confiable y muy fuerte.</h2>
+			</section>
+			<div class = "wave" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 349.20,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #08f;"></path></svg></div>
+			</header>
+			<main>
+			<section class = "contenedor sobre nosotros">
+			<h2 class = "titulo">Nuestro producto</h2>
+			<div class = "contenedor-sobre-nosotros">
+			<img src ="foto2.webp" alt="" class="imagen-about-us">
+			<div class = "contenido-textos">
+			<h3><span>1</span>La mejor tienda de reparacion en todo Honduras</h3>
+			<p> Reparacion Topy es tu tienda y sucursal para reparacion de tu PC, no tienes donde confiar? Pues visitanos. Somos conocidos por nuestra seguridad y excelente trabajo y empeño. Porque si es Reparaciones Topy, pues estará en excelentes manos</p>
+			<h3><span>2</span>Los mejores cuidados</h3>
+            <p>Respetamos la privacidad del cliente, somos una empresa de una muy grande gama ética en nuestros trabajos!.</p>
+			
+			</div>
+			</div>
+			<section class="portafolio">
+            <div class="contenedor">
+                <h2 class="titulo">Nuestros servicios</h2>
+                <div class="galeria-port">
+                    <div class="imagen-port">
+                        <img src="foto1.jpg" alt="">
+                        <div class="hover-galeria">
+                            <a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/laptop.html"><img src="icono1.png" alt=""></a>
+                            <p>Reparacion de laptos</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="foto2.webp" alt="">
+                        <div class="hover-galeria">
+                            <a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/pc.html"><img src="icono1.png" alt=""></a>
+                            <p>Reparacion de PC</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="foto3.jpg" alt="">
+                        <div class="hover-galeria">
+                            <a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/mantenimiento%20de%20ipads.html"><img src="icono1.png" alt=""></a>
+                            <p>Reparacion de Ipads</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="servi.jpg" alt="">
+                        <div class="hover-galeria">
+                            <a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/mantenimiento%20de%20servidores.html"><img src="icono1.png" alt=""></a>
+                            <p>Mantenimiento de servidores</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="rebaling.jpg" alt="">
+                        <div class="hover-galeria">
+                            <a href ="file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/servicio%20de%20reballing.html"><img src="icono1.png" alt=""></a>
+                            <p>Servicios de reballing</p>
+                        </div>
+                    </div>
+                    <div class="imagen-port">
+                        <img src="foto6.webp" alt="">
+                        <div class="hover-galeria">
+                           <a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/reparaciones%20electronicas.html"> <img src="icono1.png" alt=""></a>
+                            <p>Reparaciones electronicas</p>
+                        </div>
+						</div>
+						<div class="imagen-port">
+                        <img src="recuperar.jpg" alt="">
+                        <div class="hover-galeria">
+                            <a href = "file:///C:/Users/Carloss%20Murcia/OneDrive/Desktop/Examen%20previo/recuperacion%20de%20datos.html"><img src="icono1.png" alt=""></a>
+                           <p>Recuperacion de datos</p></a>
+                        </div>
+                    </div>
+                
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                
+
+			<section class="clientes contenedor">
+            <h2 class="titulo">Que dicen nuestros clientes</h2>
+            <div class="cards">
+                <div class="card">
+                    <img src="persona1.jpg" alt="">
+                    <div class="contenido-texto-card">
+                        <h4>Cliente</h4>
+                        <p>Increíbles servicios y excelentes trabajos!</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="persona2.jpg" alt="">
+                    <div class="contenido-texto-card">
+                        <h4>Cliente</h4>
+                        <p>Me encanta Tpy. Es una increíble tienda para depositar mi confianza y al seguridad de mis dispositivos
+						servicios muy delicados y de alta calidad.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+			<section.about-service>
+			<div class = "contenedor">
+			<h2 class = "titulo">Acerca de Reparaciones Topy</h2>
+			<div class = "servicio-cont">
+			<div class = "servicio-ind">
+			<img src = "uno.webp" alt="">
+			<h3>Que es reparaciones Topy?</h3>
+		     <p> Reparacion Topy es tu tienda y sucursal para reparacion de tu PC, no tienes donde confiar? Pues visitanos. Somos conocidos por nuestra seguridad y excelente trabajo y empeño. Porque si es Reparaciones Topy, pues estará en excelentes manos</p>
+			 </div>
+			 <div class="servicio-ind">
+             <img src="dos.jpg" alt="">
+             <h3>Seguridad</h3>
+             <p>La seguridad de Topy es excelente! Puedo depositar mi pc para un arreglo y la informacion nunca fue leída.</p>
+			 
+             </div>
+             <div class="servicio-ind">
+             <img src="tres.jpg" alt="">
+             <h3>Servicio</h3>
+              <p>Desde 2004 hasta el día de hoy. Dando servicios atentos a nuestros clientes!</p>
+			</main> </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Phone</h4>
+                <p>2235-1110</p>
+            </div>
+            <div class="content-foo">
+                <h4>Email</h4>
+                <p>topy2918@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Location</h4>
+                <p>Villanueva, Cortes</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Carlos Murcia | Reparacion Topy</h2>
+    </footer>
+</body>
+
+</html>
+			
+			
+			
+			
+           
